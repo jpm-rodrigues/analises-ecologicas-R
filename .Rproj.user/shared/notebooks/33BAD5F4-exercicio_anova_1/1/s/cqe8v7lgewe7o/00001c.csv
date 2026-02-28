@@ -1,6 +1,0 @@
-"0",""
-"0","# Análise ANOVA de um fator utilizando o pacote stats"
-"0","Modelo_anova <- aov(                      # ajusta os dados à função de Análise de Variância"
-"0","  Crescimento ~ Tratamento,               ## varíavel resposta ~ variável preditora"
-"0","  data = dados_anova_simples              ## o ""~"" pode ser lido como ""em função de"""
-"0","  ) "
