@@ -1,0 +1,11 @@
+# Instalar o pacote BiocManager
+install.packages("BiocManager")
+# Instalar a versão adequada do pacote para o R 4.1.2
+BiocManager::install(version = "3.14")
+
+## Pacotes do BiocManager necessários
+BiocManager::install("mixOmics")
+
+
+
+libudunits2-dev, libgdal-dev, libgeos-dev, and libproj-dev

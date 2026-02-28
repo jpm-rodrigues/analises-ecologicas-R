@@ -1,0 +1,6 @@
+"0","# Chamando os pactoes e dados"
+"0","## Pacotes"
+"0","library(ecodados)"
+"0","library(ggplot2)"
+"0","## Dados"
+"0","dados_anova_simples <- ecodados::anova_simples"

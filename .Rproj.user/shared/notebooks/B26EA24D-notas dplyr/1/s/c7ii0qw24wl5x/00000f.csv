@@ -1,0 +1,6 @@
+"0","flights |> 
+  filter(month == 1 | 2)
+"
+"2","Error in filter(flights, month == 1 | 2) : 
+  objeto 'flights' não encontrado
+"

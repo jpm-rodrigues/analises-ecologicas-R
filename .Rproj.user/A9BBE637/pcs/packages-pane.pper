@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": false,
+        "libraryPath": "/home/home/jpmr/Anotações/Mini curso de R/Análises ecológicas no R/renv/library/R-4.1/x86_64-pc-linux-gnu",
+        "installDependencies": true
+    }
+}
