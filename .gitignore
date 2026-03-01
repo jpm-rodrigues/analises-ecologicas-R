@@ -1,4 +1,4 @@
 .Rproj.user/
-.Rhistory/
-.directory/
-.RData/
+.Rhistory
+.directory
+.RData
